@@ -15,7 +15,7 @@ interface Project {
 
 const projects: Project[] = [
   {
-    title: "Tripple Kay Cutts and Spa",
+    title: "Tripple Kay Cutts and Spa Website",
     description: "Premium barber and spa website featuring online booking system, service showcase, gallery, and customer reviews. Elegant design reflecting luxury grooming and wellness services.",
     tech: "React · TypeScript · Tailwind · Framer Motion",
     category: "Web Development",
