@@ -4,7 +4,6 @@ import Footer from "@/components/Footer";
 import PageTransition from "@/components/PageTransition";
 import Process from "@/components/Process";
 import FAQ from "@/components/FAQ";
-import QuoteBooking from "@/components/QuoteBooking";
 import { motion } from "framer-motion";
 import { Check, X, ArrowRight, Zap, Shield, Globe, Smartphone, Search, Lock } from "lucide-react";
 
@@ -308,9 +307,6 @@ const ServicesPage = () => (
 
         {/* Process */}
         <Process />
-
-        {/* Quote Booking */}
-        <QuoteBooking />
 
         {/* Guarantees */}
         <section className="section-padding bg-muted/30">

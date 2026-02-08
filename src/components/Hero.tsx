@@ -101,7 +101,7 @@ const Hero = () => {
           transition={{ duration: 0.7, delay: 0.75 }}
           className="flex flex-col sm:flex-row items-center justify-center gap-4"
         >
-          <Link to="/services#get-quote">
+          <Link to="/quote">
             <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
